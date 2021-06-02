@@ -1,0 +1,14 @@
+body {
+   background-color: White;
+   font-family: sans-serif;
+}
+h1 {
+   font-size: 2em;
+}
+.warning {
+   color: Red;
+   font-weight: bold;
+}
+#restable {
+   font-size: .9em;
+}
