@@ -1,11 +1,11 @@
 <HTML>
 <HEAD>
-<TITLE> Euro 2012 Competition </TITLE>
+<TITLE> Euro 2016 Competition </TITLE>
 <LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
  </HEAD>
 
 <BODY>
-<center><h1> Theoretical Physics Euro 2012 Competition</h1>
+<center><h1> Theoretical Physics Euro 2016 Competition</h1>
 
 <!--
 >> <a href="scores.html">SCOREBOARD</a> << -->
@@ -27,9 +27,10 @@ the tournament:
 <ul>
 <li>  1 for the group stage matches (and 0.5 for a draw)</li>
 <li>  1 for qualifying to the playoff stage</li>
-<li>  2 for the quarter finals</li>
-<li>  4 for the semi finals</li>
-<li>  8 for the final</li>
+<li>  2 for the round of 16</li>
+<li>  4 for the quarter finals</li>
+<li>  8 for the semi finals</li>
+<li>  12 for the final</li>
 </ul>
 <pre>
     the number of points you get= 
@@ -50,6 +51,23 @@ the winner a beer or some alternative beverage should
 an opportunity to this arise.
 </li>
 </ul>
+
+<h2>History:</h2>
+This competition was first run for the 2002 World Cup by
+Rob Crittenden, Arttu Rajantie and Jochen Weller, who were postdocs at 
+DAMTP in Cambridge at the time. Then the partipants were mainly from 
+Cambridge, but during the years the competition has grown both in numbers 
+and in geographical coverage. The past winners are:
+<center><table width="300" border="1">
+<tr><td>World Cup 2002</td><td>Rob Crittenden</td></tr>
+<tr><td>Euro 2004</td><td>Peter Johansson</td></tr>
+<tr><td>World Cup 2006</td><td>Gianpaolo Procopio</td></tr>
+<tr><td>Euro 2008</td><td>Benoit Vicedo</td></tr>
+<tr><td>World Cup 2010</td><td>Adam Amara</td></tr>
+<tr><td>Euro 2012</td><td>Adam Christopherson</td></tr>
+<tr><td>World Cup 2014</td><td>James Fergusson</td></tr>
+</table></center>
+
 
 <!--
 <h2>Remarks:</h2>
@@ -72,7 +90,7 @@ Send your entry by e-mail to
 <a
 href="mailto:a.rajantie@imperial.ac.uk">a.rajantie@imperial.ac.uk</a>
 <b>before the kickoff</b> of the first
-match of the tournament (17:00 BST on Friday 8 June).
+match of the tournament (20:00 BST on Friday 10 June).
 Use this format in your message:
 <center>
 <table width="100" border="1"><tr><td align="left">
@@ -91,11 +109,9 @@ C08
 </td></tr></table>
 </center>
 Here <tt>Cxx</tt> are the three-letter country codes of the teams
-you want to buy shares in. There must be <b>eight</b> in total, and you 
-may repeat the one only <b>three</b> times.
-The list of the codes of the participating
-countries can be found below.
-
+you want to buy shares in. There must be <b>eight</b> in total, and any one team can appear only at most <b>three</b> times.
+Please use the official country codes, which are listed below.
+<p>
 Because all players may not know each other, 
 I'm also asking you to give your institution and nationality, which will be
 listed on the web site. If you don't want them to be listed, just leave
@@ -135,36 +151,38 @@ UKR
 <br>
 <br>
 
-If you want to receive future mailings about the competition, 
-<a href="mailto:a.rajantie@imperial.ac.uk">send me a
-message</a>.
-<br>
-<br>
-
 <center>
 <h2>Country Codes:</h2>
 <tt>
 <table border=1><tr height="0"><td>
 <pre>
-Code   Name           Ranking</pre>
+Code   Name        FIFA Ranking</pre>
 </td></tr><tr><td>
 <pre>
-CRO    CROATIA           21
-CZE    CZECH REPUBLIC    19
-DEN    DENMARK           13
-ENG    ENGLAND            1
-ESP    SPAIN              2
-FRA    FRANCE             6
-GER    GERMANY            3
-GRE    GREECE            10
+ALB    ALBANIA           42
+AUT    AUSTRIA           10
+BEL    BELGIUM            2
+CRO    CROATIA           27
+CZE    CZECH REPUBLIC    30
+ENG    ENGLAND           11
+FRA    FRANCE            17
+GER    GERMANY            4
+HUN    HUNGARY           20
+ISL    ICELAND           34
 IRL    IRELAND           33
-ITA    ITALY              4
-NED    NETHERLANDS        8
-POL    POLAND            20
-POR    PORTUGAL           5
-RUS    RUSSIA             7
-SWE    SWEDEN            24
-UKR    UKRAINE            9
+ITA    ITALY             12
+NIR    NORTHERN IRELAND  25
+POL    POLAND            27
+POR    PORTUGAL           8
+ROU    ROMANIA           22
+RUS    RUSSIA            29
+SVK    SLOVAKIA          24
+ESP    SPAIN              6
+SWE    SWEDEN            35
+SUI    SWITZERLAND       15
+TUR    TURKEY            18
+UKR    UKRAINE           19
+WAL    WALES             26
 </pre>
 </table></tt>
 </center>
@@ -172,13 +190,13 @@ UKR    UKRAINE            9
 <h2>Links:</h2>
 <ul>
 <li><a href="http://www.uefa.com/uefaeuro/index.html">
-Official Euro 2012 pages</a></li>
-<li><a href="http://www.bbc.co.uk/sport/0/football/european-championship/2012/">
-BBC Euro 2012 pages</a></li>
-<li><a href="../euro08">
-Theoretical Physics Euro 2008 Competition</a></li>
-<li><a href="../wc2010">
-Theoretical Physics World Cup 2010 Competition</a></li>
+Official Euro 2016 pages</a></li>
+<li><a href="http://www.bbc.co.uk/sport/football/european-championship/euro-2016">
+BBC Euro 2016 pages</a></li>
+<li><a href="../euro2012/index.html">
+Theoretical Physics Euro 2012 Competition</a></li>
+<li><a href="../wc2014/index.html">
+Theoretical Physics World Cup 2014 Competition</a></li>
 </ul>
 
 <HR>
