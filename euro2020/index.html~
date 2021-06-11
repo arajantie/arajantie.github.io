@@ -1,11 +1,11 @@
 <HTML>
 <HEAD>
-<TITLE> Euro 2016 Competition </TITLE>
+<TITLE> Euro 2020 Competition </TITLE>
 <LINK REL="stylesheet" HREF="style.css" TYPE="text/css">
  </HEAD>
 
 <BODY>
-<center><h1> Theoretical Physics Euro 2016 Competition</h1>
+<center><h1> Theoretical Physics Euro 2020 Competition</h1>
 
 <!--
 >> <a href="scores.html">SCOREBOARD</a> << -->
@@ -30,7 +30,7 @@ the tournament:
 <li>  2 for the round of 16</li>
 <li>  4 for the quarter finals</li>
 <li>  8 for the semi finals</li>
-<li>  12 for the final</li>
+<li>  16 for the final</li>
 </ul>
 <pre>
     the number of points you get= 
@@ -66,6 +66,8 @@ and in geographical coverage. The past winners are:
 <tr><td>World Cup 2010</td><td>Adam Amara</td></tr>
 <tr><td>Euro 2012</td><td>Adam Christopherson</td></tr>
 <tr><td>World Cup 2014</td><td>James Fergusson</td></tr>
+<tr><td>Euro 2016</td><td>Adam Ritz</td></tr>
+<tr><td>World Cup 2018</td><td>Andy Bond</td></tr>
 </table></center>
 
 
@@ -90,8 +92,8 @@ Send your entry by e-mail to
 <a
 href="mailto:a.rajantie@imperial.ac.uk">a.rajantie@imperial.ac.uk</a>
 <b>before the kickoff</b> of the first
-match of the tournament (20:00 BST on Friday 10 June).
-Use this format in your message:
+match of the tournament (20:00 BST on Friday 11 June).
+Use this exact format in your message:
 <center>
 <table width="100" border="1"><tr><td align="left">
 <pre><tt>Name
@@ -110,12 +112,12 @@ C08
 </center>
 Here <tt>Cxx</tt> are the three-letter country codes of the teams
 you want to buy shares in. There must be <b>eight</b> in total, and any one team can appear only at most <b>three</b> times.
-Please use the official country codes, which are listed below.
+Please use the official country codes, which are listed below and which are not all necessary what you think they would be.
 <p>
 Because all players may not know each other, 
 I'm also asking you to give your institution and nationality, which will be
-listed on the web site. If you don't want them to be listed, just leave
-those lines empty.
+shown on the web site. If you don't want them to be listed, you can leave
+those lines empty. I will also keep your email address to send you updates about this competition and for the World Cup 2022 and Euro 2024 competition announcements, but it won't be displayed and I will not share it with others. If you would like me to delete these personal details after the competition, please let me know by email.
 
 <br>
 <br>
@@ -138,7 +140,7 @@ NED
 POL
 POL
 RUS
-SWE
+FIN
 UKR
 UKR
 </pre>
@@ -159,30 +161,30 @@ UKR
 Code   Name        FIFA Ranking</pre>
 </td></tr><tr><td>
 <pre>
-ALB    ALBANIA           42
-AUT    AUSTRIA           10
-BEL    BELGIUM            2
-CRO    CROATIA           27
-CZE    CZECH REPUBLIC    30
-ENG    ENGLAND           11
-FRA    FRANCE            17
-GER    GERMANY            4
-HUN    HUNGARY           20
-ISL    ICELAND           34
-IRL    IRELAND           33
-ITA    ITALY             12
-NIR    NORTHERN IRELAND  25
-POL    POLAND            27
-POR    PORTUGAL           8
-ROU    ROMANIA           22
-RUS    RUSSIA            29
-SVK    SLOVAKIA          24
+AUT    AUSTRIA           23
+BEL    BELGIUM            1
+CRO    CROATIA           14
+CZE    CZECH REPUBLIC    40
+DEN    DENMARK           10
+ENG    ENGLAND            4
+FIN    FINLAND           54
+FRA    FRANCE             2
+GER    GERMANY           12
+HUN    HUNGARY           37
+ITA    ITALY              7
+NED    NETHERLANDS       16
+MKD    NORTH MACEDONIA   62
+POL    POLAND            21
+POR    PORTUGAL           5
+RUS    RUSSIA            38
+SCO    SCOTLAND          44
+SVK    SLOVAKIA          36
 ESP    SPAIN              6
-SWE    SWEDEN            35
-SUI    SWITZERLAND       15
-TUR    TURKEY            18
-UKR    UKRAINE           19
-WAL    WALES             26
+SWE    SWEDEN            18
+SUI    SWITZERLAND       13
+TUR    TURKEY            29
+UKR    UKRAINE           24
+WAL    WALES             17
 </pre>
 </table></tt>
 </center>
@@ -190,13 +192,12 @@ WAL    WALES             26
 <h2>Links:</h2>
 <ul>
 <li><a href="http://www.uefa.com/uefaeuro/index.html">
-Official Euro 2016 pages</a></li>
-<li><a href="http://www.bbc.co.uk/sport/football/european-championship/euro-2016">
-BBC Euro 2016 pages</a></li>
-<li><a href="../euro2012/index.html">
-Theoretical Physics Euro 2012 Competition</a></li>
-<li><a href="../wc2014/index.html">
-Theoretical Physics World Cup 2014 Competition</a></li>
+    UEFA Euro 2020 pages</a></li>
+<li><a href="../euro2016/index.html">
+Theoretical Physics Euro 2016 Competition</a></li>
+<li><a href="../wc2018/index.html">
+Theoretical Physics World Cup 2018 Competition</a></li>
+
 </ul>
 
 <HR>
