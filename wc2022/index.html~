@@ -18,11 +18,8 @@ pageTracker._trackPageview();
 <BODY>
 <center><h1>Theoretical Physics World Cup 2022 Competition</h1>
 
- >> <a href="scores.html">SCOREBOARD</a> <<
+<!-- >> <a href="scores.html">SCOREBOARD</a> << -->
 
-
-<br>
-<br>
 <table width="640" border="1"><tr><td align="center">
 <br>
 Please read
